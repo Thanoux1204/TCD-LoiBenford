@@ -1,5 +1,5 @@
 # TCD-LoiBenford
-Création d'un script permettant l'application de la transformée en cosinus discrète sur une image afin d'appliquer par la suite la loi de Benford
+Création d'un script permettant l'application de la transformée en cosinus discrète sur une image afin d'appliquer par la suite la loi de Benford. Il s'agit d'une expérimentation en Java.
 ## Objectif
 Le but est d'analyser une image pour détecter une éventuelle manipulation ou falsification en utilisant deux concepts principaux :
 1. **La Transformée en Cosinus Discrète (TCD)** : C'est une méthode de traitement du signal utilisée pour transformer les données dans le domaine fréquentiel. Elle permet de réduire les dimensions des données tout en préservant les informations essentielles.
